@@ -1,0 +1,23 @@
+{
+  "name": "luanfatec/phptips",
+  "description": "Upload de Imagens e Arquivos com o UPLOADER_PHP TIPS",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Luan Santos",
+      "email": "luanpsantos@outlook.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "coffeecode/uploader": "1.0.*"
+  }
+}

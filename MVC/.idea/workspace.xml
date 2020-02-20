@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6594f34a-622c-489e-83f5-204fab22d9b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="fe8546b5-33a3-4cc0-9640-db01b51fd4fb" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/coffeecode/router" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/datalayer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1XM7LMWqcu0DGdseW294dD231wY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/theme" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Windows\xampp\htdocs\PHPTips\MVC\theme" />
+      <recent name="D:\Windows\xampp\htdocs\PHPTips\MVC" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6594f34a-622c-489e-83f5-204fab22d9b5" name="Default Changelist" comment="" />
+      <created>1580844052179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580844052179</updated>
+      <workItem from="1580844053335" duration="6876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="268" width="449" height="263" key="ComposerInitDialogKey" timestamp="1580844131263">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="455" y="268" width="449" height="263" key="ComposerInitDialogKey/1360.-122.1280.1024/0.0.1360.768@0.0.1360.768" timestamp="1580844131263" />
+    <state x="452" y="198" key="NewPhpClassDialog" timestamp="1580845602501">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="452" y="198" key="NewPhpClassDialog/1360.-122.1280.1024/0.0.1360.768@0.0.1360.768" timestamp="1580845602501" />
+    <state x="513" y="307" key="NewPhpFileDialog" timestamp="1580847602672">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="513" y="307" key="NewPhpFileDialog/1360.-122.1280.1024/0.0.1360.768@0.0.1360.768" timestamp="1580847602672" />
+    <state x="35" y="26" width="1288" height="715" key="SettingsEditor" timestamp="1580849579436">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="35" y="26" width="1288" height="715" key="SettingsEditor/1360.-122.1280.1024/0.0.1360.768@0.0.1360.768" timestamp="1580849579436" />
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580849594147">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="343" y="89" width="672" height="678" key="search.everywhere.popup/1360.-122.1280.1024/0.0.1360.768@0.0.1360.768" timestamp="1580849594147" />
+  </component>
+</project>

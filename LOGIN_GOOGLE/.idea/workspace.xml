@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7282f43d-9fa0-4a05-a5e1-7091fcc91344" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="fe8546b5-33a3-4cc0-9640-db01b51fd4fb" />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1XLmC3HQ36KLUeOEwGXvPaGkTg5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7282f43d-9fa0-4a05-a5e1-7091fcc91344" name="Default Changelist" comment="" />
+      <created>1580833617425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580833617425</updated>
+      <workItem from="1580833618726" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="268" width="449" height="263" key="ComposerInitDialogKey" timestamp="1580833626862">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="455" y="268" width="449" height="263" key="ComposerInitDialogKey/1360.-122.1280.1024/0.0.1360.768@0.0.1360.768" timestamp="1580833626862" />
+  </component>
+</project>

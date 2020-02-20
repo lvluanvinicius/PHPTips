@@ -1,0 +1,26 @@
+{
+  "name": "luansantos/phptips-mvc",
+  "description": "DESCOMPLICANDO MVC COM PHP DO JEITO CERTO",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luan P Santos",
+      "email": "luanpsantos@outlook.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "ext-pdo": "*",
+    "coffeecode/datalayer": "1.1.*",
+    "coffeecode/router": "1.0.*",
+    "league/plates": "v4.0.0-alpha"
+  }
+}

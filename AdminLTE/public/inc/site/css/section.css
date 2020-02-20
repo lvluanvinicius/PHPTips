@@ -1,0 +1,15 @@
+#sec-1 .section-row {
+  display: flow-root;
+}
+
+#sec-1 .section-row .colum-1 {
+  border: 1px solid red;
+  height: 300px;
+  width: 40%;
+}
+
+#sec-1 .section-row .colum-2 {
+  border: 1px solid red;
+  height: 300px;
+  width: 59%;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "luanpsantos/gm-img-cropper",
+  "description": "Gerando miniaturas de imagens com cropper",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luan Santos",
+      "email": "luanpsantos@outlook.com.br"
+    }
+  ],
+  "require": {
+    "fzaninotto/faker": "1.8.*",
+    "coffeecode/cropper": "1.2.*"
+  }
+}

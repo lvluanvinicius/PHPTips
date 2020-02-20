@@ -1,0 +1,23 @@
+{
+  "name": "luanpsantos/phptips011",
+  "description": "Logs, Alertas e Monitoramento com Monolog",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Luan P. Santos",
+      "email": "luanpsantos@outlook.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "monolog/monolog": "2.0.*"
+  }
+}

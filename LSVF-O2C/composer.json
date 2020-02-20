@@ -1,0 +1,23 @@
+{
+  "name": "luansantos/LSVF-O2C",
+  "description": "Login sicial via facebook com oauth 2 client",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luan Santos",
+      "email": "luanpsantos@outlook.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "league/oauth2-facebook": "^2.0"
+  }
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d69b0e15-c2a2-4291-8b86-a09144a93b2a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="fe8546b5-33a3-4cc0-9640-db01b51fd4fb" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/coffeecode/cropper" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1XMMD05VNkAnSaH5vjyt23Rzh3b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d69b0e15-c2a2-4291-8b86-a09144a93b2a" name="Default Changelist" comment="" />
+      <created>1580851386356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580851386356</updated>
+      <workItem from="1580851387503" duration="1362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="268" width="449" height="263" key="ComposerInitDialogKey" timestamp="1580851400986">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="455" y="268" width="449" height="263" key="ComposerInitDialogKey/1360.-122.1280.1024/0.0.1360.768@0.0.1360.768" timestamp="1580851400986" />
+    <state x="513" y="307" key="NewPhpFileDialog" timestamp="1580851687468">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="513" y="307" key="NewPhpFileDialog/1360.-122.1280.1024/0.0.1360.768@0.0.1360.768" timestamp="1580851687468" />
+  </component>
+</project>

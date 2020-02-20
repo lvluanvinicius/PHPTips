@@ -1,0 +1,25 @@
+{
+  "name": "luansantos/blog",
+  "description": "Gerando blog com paginação de resultados",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luan Santos",
+      "email": "luanpsantos@outlook.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "fzaninotto/faker": "1.9.*",
+    "coffeecode/datalayer": "1.1.*",
+    "coffeecode/paginator": "1.0.*"
+  }
+}
