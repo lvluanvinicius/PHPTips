@@ -22,8 +22,8 @@ $logger->notice("Holla!", ["logger" => true]);
 $logger->pushHandler(new SendGridHandler(
     SENDGRID['user'],
     SENDGRID['passwd'],
-    "zabbixnotfy@gmail.com",
-    "luanpsantos@outlook.com.br",
+    "",
+    "",
     "Error em app.com: ".date('d/m/Y H:i:s'),
     Logger::CRITICAL
 ));

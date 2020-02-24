@@ -1,0 +1,25 @@
+{
+  "name": "luanfatec/phptips012",
+  "description": "Manipulando dados em arquivos CSV com PHP",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luan P. Santos",
+      "email": "luanpsantos@outlook.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "coffeecode/datalayer": "1.1.*",
+    "fzaninotto/faker": "1.9.*",
+    "league/csv": "9.5.*"
+  }
+}

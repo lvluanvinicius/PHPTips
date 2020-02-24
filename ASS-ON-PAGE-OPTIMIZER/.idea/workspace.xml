@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="493d6e6b-c262-440c-aab2-214a63f37b9a" name="Default Changelist" comment="" />
+    <list default="true" id="493d6e6b-c262-440c-aab2-214a63f37b9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CH-PDF-PHP-e-DOMPDF/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CH-PDF-PHP-e-DOMPDF/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CH-PDF-PHP-e-DOMPDF/source/Config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CH-PDF-PHP-e-DOMPDF/source/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminLTE/public/inc/panel/js/panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminLTE/public/inc/panel/js/panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminLTE/public/inc/site/css/section.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminLTE/public/inc/site/css/section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminLTE/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminLTE/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminLTE/source/App/Login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminLTE/source/App/Login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminLTE/source/App/Web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminLTE/source/App/Web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminLTE/views/_theme.php" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminLTE/views/_theme.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminLTE/views/admin/_template.php" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminLTE/views/admin/_template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminLTE/views/admin/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminLTE/views/admin/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdminLTE/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../AdminLTE/views/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAM-MONOLOG_PHPTIPS/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/../LAM-MONOLOG_PHPTIPS/app.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +28,9 @@
       <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="fe8546b5-33a3-4cc0-9640-db01b51fd4fb" />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/coffeecode/datalayer" />
@@ -23,6 +41,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1XMj8y87p5Me3n2LRcUwpok0LBk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -52,6 +71,7 @@
       <updated>1580862701345</updated>
       <workItem from="1580862702516" duration="120000" />
       <workItem from="1582031205379" duration="3942000" />
+      <workItem from="1582479550938" duration="2000" />
     </task>
     <servers />
   </component>

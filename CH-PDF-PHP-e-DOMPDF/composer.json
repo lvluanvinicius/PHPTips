@@ -1,0 +1,24 @@
+{
+  "name": "luanfatec/phptips014",
+  "description": "Convertendo HTML para PDF com PHP e DOMPDF",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luan P. Santos",
+      "email": "luanpsantos@outlook.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "coffeecode/datalayer": "1.1.*",
+    "dompdf/dompdf": "0.8.*"
+  }
+}

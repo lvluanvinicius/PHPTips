@@ -18,14 +18,14 @@ class Seo
             "pt-br",
             $schema
         )->publisher(
-            "luan.vinicius.5249",
-            "luan.vinicius.5249"
+            "",
+            ""
         )->twitterCard(
-            "@l_vinicius250",
-            "@l_vinicius250",
+            "",
+            "",
             "localhost"
         )->facebook(
-            "luan.vinicius.5249"
+            ""
         );
     }
 

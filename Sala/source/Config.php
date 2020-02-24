@@ -17,8 +17,8 @@
     define("MAIL", [
         "host" => "smtp.google.com",
         "port" => "587",
-        "user" => "lvluanvinicius45@gmail.com",
-        "passwd" => "Paiva_965700",
-        "from_name" => "Luan Santos",
-        "from_email" => "luan.paiva750@gmail.com"
+        "user" => "",
+        "passwd" => "",
+        "from_name" => "",
+        "from_email" => ""
     ]);

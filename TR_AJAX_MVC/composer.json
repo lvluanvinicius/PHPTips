@@ -1,0 +1,25 @@
+{
+  "name": "luanfatec/phptips013",
+  "description": "TRABALHANDO COM REQUISIÇÕES AJAX EM MVC",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Luan P. Santos",
+      "email": "luanpsantos@outlook.com.br"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    },
+    "files": [
+      "source/Config.php"
+    ]
+  },
+  "require": {
+    "coffeecode/router": "1.0.*",
+    "coffeecode/datalayer": "1.1.*",
+    "league/plates": "v4.0.0-alpha"
+  }
+}
